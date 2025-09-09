@@ -9,6 +9,7 @@ PrepWright provides personalized, expert strategy sessions designed to help fami
 ## Tech Stack
 
 - **Framework:** Next.js 15 with App Router
+- **Frontend Library:** React 19
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS
 - **Package Manager:** Yarn Berry (v4) with node_modules linker
